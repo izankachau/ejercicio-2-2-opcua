@@ -1,3 +1,11 @@
+# =============================================================================
+# Servidor OPC-UA Industrial - Ejercicio 2.2
+# Autor  : Izan Kachau
+# Fecha  : Febrero 2026
+# Desc.  : Simulación de servidor OPC-UA con sensores virtuales (temperatura,
+#          presión y contador de piezas) que replica el comportamiento de un PLC.
+# =============================================================================
+
 import asyncio
 import random
 import logging

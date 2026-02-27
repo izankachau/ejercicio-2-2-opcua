@@ -1,3 +1,11 @@
+# =============================================================================
+# Cliente OPC-UA Industrial - Ejercicio 2.2
+# Autor  : Izan Kachau
+# Fecha  : Febrero 2026
+# Desc.  : Dashboard de monitoreo en tiempo real que se conecta al servidor
+#          OPC-UA y muestra temperatura, presión y contador de piezas.
+# =============================================================================
+
 import asyncio
 import threading
 import os

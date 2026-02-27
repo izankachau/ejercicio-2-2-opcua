@@ -1,5 +1,7 @@
 # Comunicación OPC-UA Industrial
 
+![Preview del sistema](assets/preview.png)
+
 Sistema de simulación cliente-servidor OPC-UA para automatización industrial y comunicación de autómatas programables (PLCs).
 
 ## Características
